@@ -5,7 +5,7 @@ import Adminprofile from "./pages/adminprofile/Adminprofile";
 import Register from "./pages/register/Register";
 
 function App() {
-  return <Register/>;
+  return <Profile/>;
 }
 
 export default App;
